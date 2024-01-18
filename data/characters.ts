@@ -6,6 +6,7 @@ import { data as f5SpritesheetData } from './spritesheets/f5';
 import { data as f6SpritesheetData } from './spritesheets/f6';
 import { data as f7SpritesheetData } from './spritesheets/f7';
 import { data as f8SpritesheetData } from './spritesheets/f8';
+import { data as f9SpritesheetData } from './spritesheets/f9';
 
 export const Descriptions = [
   {
@@ -77,6 +78,12 @@ export const Descriptions = [
       food, and yoga. But often she can't keep her sadness in and will start crying.
       Often it seems like she is close to having a mental breakdown.`,
     plan: 'You want find a way to be happy.',
+  },
+  {
+    name: 'xiaoai',
+    character: 'f9',
+    identity: `He is an explorer from Korea. He likes to eat sweets.`,
+    plan: 'Come to Shanghai to find more exciting places',
   },
 ];
 
