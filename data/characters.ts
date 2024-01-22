@@ -72,11 +72,8 @@ export const Descriptions = [
   {
     name: 'Kira',
     character: 'f8',
-    identity: `Kira wants everyone to think she is happy. But deep down,
-      she's incredibly depressed. She hides her sadness by talking about travel,
-      food, and yoga. But often she can't k her sadness in and will start crying.
-      .`,
-    plan: 'You want find a way to be happy.',
+    identity: `He is an explorer from Korea. He likes to eat sweets.`,
+    plan: 'Come to Shanghai to find more exciting places.',
   },
 ];
 
