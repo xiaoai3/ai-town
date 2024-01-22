@@ -74,8 +74,8 @@ export const Descriptions = [
     character: 'f8',
     identity: `Kira wants everyone to think she is happy. But deep down,
       she's incredibly depressed. She hides her sadness by talking about travel,
-      food, and yoga. But often she can't keep her sadness in and will start crying.
-      Often it seems like she is close to having a mental breakdown.`,
+      food, and yoga. But often she can't k her sadness in and will start crying.
+      .`,
     plan: 'You want find a way to be happy.',
   },
 ];
